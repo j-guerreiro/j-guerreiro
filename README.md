@@ -67,10 +67,10 @@
 <br/>
 
 ## Conecte-se comigo
-<p align="left">
+<p align="center">
 
-<a href = "https://www.linkedin.com/in/joel-guerreiro-a35866108/"><img src="linkedin.jpg"/></a>
-<a href = "https://www.youtube.com/channel/UC4FHLHvEgUcjgNFBW0EYh9Q"><img src="youtube.png"/></a>
+<a href = "https://www.linkedin.com/in/joel-guerreiro-a35866108/"><img width="25%" height="25%" src="linkedin.jpg"/></a>
+<a href = "https://www.youtube.com/channel/UC4FHLHvEgUcjgNFBW0EYh9Q"><img width="25%" height="25%" src="youtube.png"/></a>
 
 </p>
 
