@@ -69,8 +69,8 @@
 ## Conecte-se comigo
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/joel-guerreiro-a35866108/"><img src="https://media-exp1.licdn.com/dms/image/C4D16AQF1GNt1XUcNVQ/profile-displaybackgroundimage-shrink_350_1400/0/1607011785752?e=1642032000&v=beta&t=8vAq1pYDfBHvhDHuKDN5j2q8CJkutdBaZ-NhwAI0oLM"/></a>
-<a href = "https://www.youtube.com/channel/UC4FHLHvEgUcjgNFBW0EYh9Q"><img src="https://yt3.ggpht.com/ytc/AKedOLRHuEQ8Z5f75J2Hc6Z9K5gPN3LtKyXAB1UHGD9lqw=s88-c-k-c0x00ffffff-no-rj"/></a>
+<a href = "https://www.linkedin.com/in/joel-guerreiro-a35866108/"><img src="linkedin.jpg"/></a>
+<a href = "https://www.youtube.com/channel/UC4FHLHvEgUcjgNFBW0EYh9Q"><img src="youtube.png"/></a>
 
 </p>
 
