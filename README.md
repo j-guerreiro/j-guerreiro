@@ -10,15 +10,15 @@
 
 - 🌱 Atualmente estou estudando -> **Shell Scripting no Red hat Enterprise Linux 8.**
 
-- 👯 Gostaria de colaborar em -> **Projetos Open-source**
+- 👯 Gostaria de colaborar em -> **Projetos Open-source.**
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em -> **[Meu Portfolio](https://j-guerreiro.github.io/jguerreiro.github.io/)**
 
 - 📫 Como entrar em contato comigo -> **joel.borghi@gmail.com**
 
-- ⚡ Fato divertido **Sou violonista e gosto de comida japonesa.**
+- ⚡ Curiosidade -> **Sou violonista e gosto de comida japonesa.**
 
-## 🚀 Linguagens e Ferramentas:
+## 🚀 Linguagens e Ferramentas
 
 <p align="left"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
@@ -66,7 +66,7 @@
 <br/>
 <br/>
 
-## Conecte-se comigo:
+## Conecte-se comigo
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/joel-guerreiro-a35866108/"><img src="https://media-exp1.licdn.com/dms/image/C4D16AQF1GNt1XUcNVQ/profile-displaybackgroundimage-shrink_350_1400/0/1607011785752?e=1642032000&v=beta&t=8vAq1pYDfBHvhDHuKDN5j2q8CJkutdBaZ-NhwAI0oLM"/></a>
