@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center"> Olá, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">j-guerreiro por aqui!</h1>
+<h1 align="center"> Olá, <img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Digital_rain_animation_small_letters_shine.gif" width="30px">j-guerreiro por aqui!</h1>
 <h3 align="center">Sou um profissional de tecnologia apaixonado.</h3>
 
 
