@@ -6,15 +6,15 @@
 
 ## 🙋‍♂️ Sobre
 
-- 🔭 Meu último projeto foi este website **[70 Filmes](https://70filmes.com.br)**
+- 🔭 Meu último projeto foi este website para uma produtora cinematográfica -> **[70 Filmes](https://70filmes.com.br)**
 
-- 🌱 Atualmente estou estudando **Shell Scripting no Red hat Enterprise Linux 8.**
+- 🌱 Atualmente estou estudando -> **Shell Scripting no Red hat Enterprise Linux 8.**
 
-- 👯 Gostaria de colaborar em projetos de código aberto **Projeto Open-source**
+- 👯 Gostaria de colaborar em -> **Projetos Open-source**
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em **[Meu Portfolio](https://j-guerreiro.github.io/jguerreiro.github.io/)**
+- 👨‍💻 Todos os meus projetos estão disponíveis em -> **[Meu Portfolio](https://j-guerreiro.github.io/jguerreiro.github.io/)**
 
-- 📫 Como entrar em contato comigo **joel.borghi@gmail.com**
+- 📫 Como entrar em contato comigo -> **joel.borghi@gmail.com**
 
 - ⚡ Fato divertido **Sou violonista e gosto de comida japonesa.**
 
