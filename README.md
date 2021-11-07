@@ -1,4 +1,4 @@
-<a href="#"><img style="border-radius=5px" width="100%" height="auto" src="Digital_rain_animation_small_letters_shine 2.gif"/></a>
+<a href="#"><img style="border-radius=5px" width="100%" height="auto" src="Digital_rain_animation_small_letters_shine 3.gif"/></a>
 
 <h1 align="center"> Olá, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">j-guerreiro por aqui!</h1>
 <h3 align="center">Sou um profissional de tecnologia apaixonado.</h3>
