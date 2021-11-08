@@ -8,7 +8,7 @@
 
 - 🔭 Meu último projeto foi este website para uma produtora cinematográfica -> **[70 Filmes](https://70filmes.com.br)**
 
-- 🌱 Atualmente estou estudando -> **HTML|CSS|JS e Shell Scripting no Red hat Enterprise Linux 8.**
+- 🌱 Atualmente estou estudando -> **HTML|CSS|JS|React e Shell Scripting no Red Hat Enterprise Linux 8.**
 
 - 👯 Gostaria de colaborar em -> **Projetos Open-source.**
 
