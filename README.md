@@ -12,7 +12,7 @@
 
 - 👯 Gostaria de colaborar em -> **Projetos Open-source.**
 
-- Meu S.O. favorito e daily-driver é o -> [ArchLinux](https://archlinux.org)
+- Meu S.O. favorito e daily-driver é o -> **[ArchLinux](https://archlinux.org)**
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em -> **[Meu Portfolio](https://j-guerreiro.github.io/jguerreiro.github.io/)**
 
