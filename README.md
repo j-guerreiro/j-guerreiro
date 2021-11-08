@@ -1,7 +1,7 @@
 <a href="#"><img  width="100%" height="350" src="Digital_rain_animation_small_letters_shine.gif"/></a>
 
 <h1 align="center"> Olá, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">j-guerreiro por aqui!</h1>
-<h3 align="center">Sou um profissional de tecnologia apaixonado.</h3>
+<h3 align="center">Sou um profissional apaixonado por tecnologia open-source.</h3>
 
 
 ## 🙋‍♂️ Sobre
@@ -11,6 +11,8 @@
 - 🌱 Atualmente estou estudando -> **HTML|CSS|JS|React e Shell Scripting no Red Hat Enterprise Linux 8.**
 
 - 👯 Gostaria de colaborar em -> **Projetos Open-source.**
+
+- Meu S.O. favorito e daily-driver é o -> [ArchLinux](https://archlinux.org)
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em -> **[Meu Portfolio](https://j-guerreiro.github.io/jguerreiro.github.io/)**
 
