@@ -1,4 +1,4 @@
-<a href="#"><img  width="100%" height="350" src="Digital_rain_animation_small_letters_shine.gif"/></a>
+<a href="#"><img  width="100%" height="350" src="Digital_rain_animation_small_letters_shine.gif"/></a><br />
 
 <h1 align="center"> Olá, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Joel por aqui!</h1>
 <h3 align="center">Sou um profissional apaixonado por tecnologia open-source.</h3> <br />
@@ -50,29 +50,28 @@
 <br />
 <p align="center">
     
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=j-guerreiro&theme=neon-palenight)](https://github.com/DenverCoder1/github-readme-streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=j-guerreiro&theme=shades-of-purple&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
-</p>
 <br />
-  <br/>
-    <a href="https://github.com/j-guerreiro/github-readme-stats"><img alt="j-guerreiro Github Stats" src="https://github-readme-stats.vercel.app/api?username=j-guerreiro&show_icons=true&count_private=true&theme=react&hide_border=false&bg_color=312a4b" /></a>
+</p>
+    <a href="https://github.com/j-guerreiro/github-readme-stats"><img alt="j-guerreiro Github Stats" src="https://github-readme-stats.vercel.app/api?username=j-guerreiro&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=312a4b" /></a>
 
-  <br />  
-  <a href="https://github.com/j-guerreiro/github-readme-stats"><img alt="j-guerreiro's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-guerreiro&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=false&bg_color=312a4b" /></a>
+  <br /> <br /> 
+  <a href="https://github.com/j-guerreiro/github-readme-stats"><img alt="j-guerreiro's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-guerreiro&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=312a4b" /></a>
 
 
-  <br>
-  <br/>
+  <br />
+  <br />
   <b>Nota:</b> As linguagens são somente uma métrica das linguagens que meu código público consiste e não refletem necessariamente em experiência ou nível de habilidade.
 
 
-<br/>
-<br/>
+<br />
+<br />
 
-<a href="https://github.com/j-guerreiro/github-readme-activity-graph"><img alt="j-guerreiro's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=j-guerreiro&bg_color=1b0244&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=false" /></a>
+<a href="https://github.com/j-guerreiro/github-readme-activity-graph"><img alt="j-guerreiro's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=j-guerreiro&bg_color=312a4b&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
-<br/>
-<br/>
+<br />
+<br />
 
 ## Conecte-se comigo
 <br />
