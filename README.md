@@ -43,16 +43,21 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/j-guerreiro/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="j-guerreiro's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=j-guerreiro&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+    
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=j-guerreiro&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
 </p>
+
+<br />
 
 ## 📊 Estatísticas do meu Github
 
   <br/>
     <a href="https://github.com/j-guerreiro/github-readme-stats"><img alt="j-guerreiro Github Stats" src="https://github-readme-stats.vercel.app/api?username=j-guerreiro&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/j-guerreiro/github-readme-stats"><img alt="j-guerreiro's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-guerreiro&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+
+
+  
   <br/>
   <b>Nota:</b> As linguagens são somente uma métrica das linguagens que meu código público consiste e não refletem necessariamente em experiência ou nível de habilidade.
 
