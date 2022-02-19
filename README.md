@@ -50,14 +50,14 @@
 <br />
 <p align="center">
     
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=j-guerreiro&theme=shades-of-purple&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=j-guerreiro&theme=yeblu&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 <br />
 </p>
-    <a href="https://github.com/j-guerreiro/github-readme-stats"><img alt="j-guerreiro Github Stats" src="https://github-readme-stats.vercel.app/api?username=j-guerreiro&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=312a4b" /></a>
+    <a href="https://github.com/j-guerreiro/github-readme-stats"><img alt="j-guerreiro Github Stats" src="https://github-readme-stats.vercel.app/api?username=j-guerreiro&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=112a4b" /></a>
 
   <br /> <br /> 
-  <a href="https://github.com/j-guerreiro/github-readme-stats"><img alt="j-guerreiro's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-guerreiro&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=312a4b" /></a>
+  <a href="https://github.com/j-guerreiro/github-readme-stats"><img alt="j-guerreiro's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-guerreiro&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=112a4b" /></a>
 
 
   <br />
@@ -68,7 +68,7 @@
 <br />
 <br />
 
-<a href="https://github.com/j-guerreiro/github-readme-activity-graph"><img alt="j-guerreiro's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=j-guerreiro&bg_color=312a4b&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/j-guerreiro/github-readme-activity-graph"><img alt="j-guerreiro's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=j-guerreiro&bg_color=112a4b&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br />
 <br />
