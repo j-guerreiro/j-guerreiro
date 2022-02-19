@@ -41,23 +41,24 @@
 
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
 <br/>
-
-<p align="center">
-    
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=j-guerreiro&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
-
-</p>
-
 <br />
 
 ## 📊 Estatísticas do meu Github
+<br />
+<p align="center">
+    
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=j-guerreiro&theme=neon-palenight)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
+</p>
+<br />
   <br/>
-    <a href="https://github.com/j-guerreiro/github-readme-stats"><img alt="j-guerreiro Github Stats" src="https://github-readme-stats.vercel.app/api?username=j-guerreiro&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/j-guerreiro/github-readme-stats"><img alt="j-guerreiro's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-guerreiro&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/j-guerreiro/github-readme-stats"><img alt="j-guerreiro Github Stats" src="https://github-readme-stats.vercel.app/api?username=j-guerreiro&show_icons=true&count_private=true&theme=react&hide_border=false&bg_color=312a4b" /></a>
+
+  <br />  
+  <a href="https://github.com/j-guerreiro/github-readme-stats"><img alt="j-guerreiro's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-guerreiro&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=false&bg_color=312a4b" /></a>
 
 
-  
+  <br>
   <br/>
   <b>Nota:</b> As linguagens são somente uma métrica das linguagens que meu código público consiste e não refletem necessariamente em experiência ou nível de habilidade.
 
@@ -65,20 +66,24 @@
 <br/>
 <br/>
 
-<a href="https://github.com/j-guerreiro/github-readme-activity-graph"><img alt="j-guerreiro's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=j-guerreiro&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/j-guerreiro/github-readme-activity-graph"><img alt="j-guerreiro's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=j-guerreiro&bg_color=1b0244&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=false" /></a>
 
 <br/>
 <br/>
 
 ## Conecte-se comigo
+<br />
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/joel-guerreiro-a35866108/"><img width="5%" height="5%" src="linkedin.jpg"/></a>
 <a href = "https://www.youtube.com/channel/UC4FHLHvEgUcjgNFBW0EYh9Q"><img width="5%" height="5%" src="youtube.png"/></a>
 
+<br />
+
 </p>
 
 ## ❤ Views e seguidores
+<br />
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=j-guerreiro">
 </a>
