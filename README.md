@@ -1,10 +1,11 @@
 <a href="#"><img  width="100%" height="350" src="Digital_rain_animation_small_letters_shine.gif"/></a>
 
-<h1 align="center"> Olá, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">j-guerreiro por aqui!</h1>
-<h3 align="center">Sou um profissional apaixonado por tecnologia open-source.</h3>
+<h1 align="center"> Olá, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Joel por aqui!</h1>
+<h3 align="center">Sou um profissional apaixonado por tecnologia open-source.</h3> <br />
 
 
 ## 🙋‍♂️ Sobre
+<br />
 
 - 🔭 Meu último projeto foi este website para uma produtora cinematográfica -> **[70 Filmes](https://70filmes.com.br)**
 
@@ -18,10 +19,12 @@
 
 - 📫 Como entrar em contato comigo -> **joel.borghi@gmail.com**
 
-- ⚡ Curiosidade -> **Sou violonista e gosto de comida japonesa.**
+- ⚡ Curiosidade -> **Sou violonista clássico, gosto de comida japonesa, Senhor dos Anéis, música celta e insanity workout.**
+
+<br />
 
 ## 🚀 Linguagens e Ferramentas
-
+<br />
 <p align="left"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
@@ -75,7 +78,7 @@
 <br />
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/joel-guerreiro-a35866108/"><img width="5%" height="5%" src="linkedin.jpg"/></a>
+<a href = "https://www.linkedin.com/in/joel-guerreiro/"><img width="5%" height="5%" src="linkedin.jpg"/></a>
 <a href = "https://www.youtube.com/channel/UC4FHLHvEgUcjgNFBW0EYh9Q"><img width="5%" height="5%" src="youtube.png"/></a>
 
 <br />
