@@ -86,7 +86,7 @@
 
 ## ❤ Views e seguidores
 <br />
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<a href="https://github.com/komarev/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=j-guerreiro">
 </a>
 <a href="https://github.com/j-guerreiro?tab=followers"><img src="https://img.shields.io/github/followers/j-guerreiro?label=Followers&style=social" alt="GitHub Badge"></a>
