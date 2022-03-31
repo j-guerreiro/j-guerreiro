@@ -4,7 +4,7 @@
 <h3 align="center">Sou um profissional apaixonado por tecnologia open-source.</h3> <br />
 
 
-## 🙋‍♂️ Sobre
+## 🙋‍♂️ Sobre | About Me
 <br />
 
 - 🔭 Meu último projeto foi este website para uma produtora cinematográfica -> **[70 Filmes](https://70filmes.com.br)**
@@ -21,9 +21,26 @@
 
 - ⚡ Curiosidade -> **Sou violonista clássico, gosto de comida japonesa, Senhor dos Anéis, música celta e insanity workout.**
 
+<p align="left">  
+I graduated from System Analisys and Development as what could be called 'associate degree'.
+
+From an early age I had my first contact with video games and personal computers, started tinkering on MS Windows 95-98 on a pentium 100mhz, played Atari's games, 16-bit era SNES, Genesis, 32-bit era Sega Saturn/Sony PSX, 64-bit Nintendo's, 128-bit era Sega DreamCast and Sony PS2 and late PC gaming of course.
+
+I really enjoyed technology from videogames, that's how I started learning english and tinker with computers software and hardware.
+
+However it took me some time to take it seriously, I only decided that I wanted to work in the field at my late 20's when I chose a graduation course from a Federal Institute near my home.
+
+During the course I had the opportunity to work as intern with web technologies (html, css, js, sql, wordpress) and really enjoyed solving problems.
+
+I love open-source software, my daily-driver is Arch Linux which I installed from CLI myself and added software to the core of the O.S. for my needs.
+
+What drives me is a sense of purpose and control that the knowledge of technology brings to myself. 
+And be able to apply that and help shape the world of users and learners. 
+I believe that knowledge should be gathered and shared, I also enjoy teaching.
+</p>
 <br />
 
-## 🚀 Linguagens e Ferramentas
+## 🚀 Linguagens e Ferramentas | Programming Languages and Tools
 <br />
 <p align="left"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
@@ -46,7 +63,7 @@
 <br/>
 <br />
 
-## 📊 Estatísticas do meu Github
+## 📊 Estatísticas do meu Github | Github Statistics
 <br />
 <p align="center">
     
@@ -73,7 +90,7 @@
 <br />
 <br />
 
-## Conecte-se comigo
+## Conecte-se comigo | Connect with me
 <br />
 <p align="left">
 
@@ -84,7 +101,7 @@
 
 </p>
 
-## ❤ Views e seguidores
+## ❤ Views e seguidores | Profiles Views and Followers
 <br />
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=j-guerreiro" alt="Profile Views" target="_blank">
