@@ -21,6 +21,10 @@
 
 - ⚡ Curiosidade -> **Sou violonista clássico, gosto de comida japonesa, Senhor dos Anéis, música celta e insanity workout.**
 
+<br> 
+
+####Quick Bio
+
 <p align="left">  
 I graduated from System Analisys and Development as what could be called 'associate degree'.
 
@@ -39,6 +43,7 @@ And be able to apply that and help shape the world of users and learners.
 I believe that knowledge should be gathered and shared, I also enjoy teaching.
 </p>
 <br />
+
 
 ## 🚀 Linguagens e Ferramentas | Programming Languages and Tools
 <br />
