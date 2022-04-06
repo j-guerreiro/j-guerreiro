@@ -48,8 +48,8 @@ I believe that knowledge should be gathered and shared, I also enjoy teaching.
 ## 🚀 Linguagens e Ferramentas | Programming Languages and Tools
 <br />
 <p align="left">
-    <a style="padding-right:8px;" href="https://www.php.net" target="_blank"> <img  width="" height="40" src="assets/Official PHP Logo.svg"/> </a>
-    <a href="https://drupal.org/" target="_blank"> <img img  width="40" height="40" src="assets/drupal-logo-stacked.png"> 
+    <a style="padding-right:8px;" href="https://www.php.net" target="_blank"> <img  width="" height="40" src="assets/Official_PHP_Logo.svg"/> </a>
+    <a style="padding-right:8px;" href="https://drupal.org/" target="_blank"> <img img  width="40" height="40" src="assets/drupal_logo_stacked.png"> 
     <a style="padding-right:8px;" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a style="padding-right:8px;" href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a style="padding-right:8px;" href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
@@ -59,7 +59,7 @@ I believe that knowledge should be gathered and shared, I also enjoy teaching.
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>  
     <a style="padding-right:8px;" href="https://ubuntu.org/" target="_blank"> <img width="" height="40" src="assets/ubuntu_logo.svg"/> </a> 
     <a style="padding-right:8px;" href="https://git-scm.com/" target="_blank"> <img 
-    width="" height="40" src="assets/archlinux logo.svg"/> </a> 
+    width="" height="40" src="assets/archlinux_logo.svg"/> </a> 
     <a style="padding-right:8px;" href="https://git-scm.com/" target="_blank"> <img  src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
 
 </p>
