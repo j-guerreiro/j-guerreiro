@@ -48,19 +48,19 @@ I believe that knowledge should be gathered and shared, I also enjoy teaching.
 ## 🚀 Linguagens e Ferramentas | Programming Languages and Tools
 <br />
 <p align="left">
-    <a style="padding-right:8px;" href="https://www.php.net" target="_blank"> <img  width="" height="40" src="assets/Official_PHP_Logo.svg"/> </a>
-    <a style="padding-right:8px;" href="https://drupal.org/" target="_blank"> <img img  width="40" height="40" src="assets/drupal_logo_stacked.png"> 
-    <a style="padding-right:8px;" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a style="padding-right:8px;" href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a style="padding-right:8px;" href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a style="padding-right:8px;" href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    <a style="padding-right:8px;" href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>  
-    <a style="padding-right:8px;" href="https://ubuntu.org/" target="_blank"> <img width="" height="40" src="assets/ubuntu_logo.svg"/> </a> 
-    <a style="padding-right:8px;" href="https://git-scm.com/" target="_blank"> <img 
+    <a style="margin-right:12px;" href="https://www.php.net" target="_blank"> <img  width="" height="40" src="assets/Official_PHP_Logo.svg"/> </a>
+    <a style="margin-right:12px;" href="https://drupal.org/" target="_blank"> <img img  width="40" height="40" src="assets/drupal_logo_stacked.png"> 
+    <a style="margin-right:12px;" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
+    <a style="margin-right:12px;" href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
+    <a style="margin-right:12px;" href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
+    <a style="margin-right:12px;" href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
+    <a style="margin-right:12px;" href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
+    <a style="margin-right:12px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
+    <a style="margin-right:12px;" href="https://www.mariadb.org/" target="_blank"> <img width="" height="40" src="assets/maria_db_logo.svg"/> </a>  
+    <a style="margin-right:12px;" href="https://ubuntu.org/" target="_blank"> <img width="" height="40" src="assets/ubuntu_logo.svg"/> </a> 
+    <a style="margin-right:12px;" href="https://archlinux.org/" target="_blank"> <img 
     width="" height="40" src="assets/archlinux_logo.svg"/> </a> 
-    <a style="padding-right:8px;" href="https://git-scm.com/" target="_blank"> <img  src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+    <a style="margin-right:12px;" href="https://git-scm.com/" target="_blank"> <img  src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
 
 </p>
 
