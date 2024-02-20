@@ -1,25 +1,18 @@
 <a href="#"><img  width="100%" height="350" src="assets/Digital_rain_animation_small_letters_shine.gif"/></a><br />
 
-<h1 align="center"> Olá, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Joel por aqui!</h1>
-<h3 align="center">Sou um profissional apaixonado por tecnologia open-source.</h3> <br />
-
+<h1 align="center"> Hello<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">!</h1>
+<h3 align="center">🐧🐧🐧🐧🐧🐧</h3> <br />
 
 ## 🙋‍♂️ Sobre | About Me
 <br />
 
-- 🔭 Meu último projeto foi este website para uma produtora cinematográfica -> **[70 Filmes](https://70filmes.com.br)**
+- 🌱 Currently playing and studying -> **HTML|CSS|JS|TS|React|NextJS|Drupal|Symfony**
 
-- 🌱 Atualmente estou estudando -> **HTML|CSS|JS|React e Shell Scripting no Red Hat Enterprise Linux 8.**
+- My favorite S.O. and daily-driver -> **[ArchLinux](https://archlinux.org)**
 
-- 👯 Gostaria de colaborar em -> **Projetos Open-source.**
+- 📫 Send a hello -> **joel.borghi@gmail.com**
 
-- Meu S.O. favorito e daily-driver é o -> **[ArchLinux](https://archlinux.org)**
-
-- 👨‍💻 Todos os meus projetos estão disponíveis em -> **[Meu Portfolio](https://j-guerreiro.github.io/jguerreiro.github.io/)**
-
-- 📫 Como entrar em contato comigo -> **joel.borghi@gmail.com**
-
-- ⚡ Curiosidade -> **Sou violonista clássico, gosto de comida japonesa, Senhor dos Anéis, música celta e insanity workout.**
+- ⚡ Curiosities -> **I love playing classical and electric guitar, pc gaming, emulators.**
 
 <br> 
 
@@ -45,7 +38,7 @@ I believe that knowledge should be gathered and shared, I also enjoy teaching.
 <br />
 
 
-## 🚀 Linguagens e Ferramentas | Programming Languages and Tools
+## 🚀 Programming Languages and Tools
 <br />
 <p align="left">
     <a style="margin-right:12px;" href="https://www.php.net" target="_blank"> <img  width="" height="40" src="assets/Official_PHP_Logo.svg"/> </a>
@@ -64,11 +57,10 @@ I believe that knowledge should be gathered and shared, I also enjoy teaching.
 
 </p>
 
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
 <br/>
 <br />
 
-## 📊 Estatísticas do meu Github | Github Statistics
+## 📊 Github Statistics
 <br />
 <p align="center">
     
@@ -84,8 +76,7 @@ I believe that knowledge should be gathered and shared, I also enjoy teaching.
 
   <br />
   <br />
-  <b>Nota:</b> As linguagens são somente uma métrica das linguagens que meu código público consiste e não refletem necessariamente em experiência ou nível de habilidade.
-
+  <b>Note:</b> Programming languages are just a metric and they don't reflect real skills.
 
 <br />
 <br />
@@ -95,7 +86,7 @@ I believe that knowledge should be gathered and shared, I also enjoy teaching.
 <br />
 <br />
 
-## Conecte-se comigo | Connect with me
+## Connect with me
 <br />
 <p align="left">
 
@@ -106,7 +97,7 @@ I believe that knowledge should be gathered and shared, I also enjoy teaching.
 
 </p>
 
-## ❤ Views e seguidores | Profiles Views and Followers
+## ❤ Profiles Views and Followers
 <br />
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=j-guerreiro" alt="Profile Views" target="_blank">
