@@ -3,7 +3,7 @@
 <h1 align="center"> Hello<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">!</h1>
 <h3 align="center">🐧🐧🐧🐧🐧🐧</h3> <br />
 
-## 🙋‍♂️ Sobre | About Me
+## 🙋‍♂️ About Me
 <br />
 
 - 🌱 Currently playing and studying -> **HTML|CSS|JS|TS|React|NextJS|Drupal|Symfony**
@@ -81,7 +81,7 @@ I believe that knowledge should be gathered and shared, I also enjoy teaching.
 <br />
 <br />
 
-<a href="https://github.com/j-guerreiro/github-readme-activity-graph"><img alt="j-guerreiro's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=j-guerreiro&bg_color=112a4b&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<!-- <a href="https://github.com/j-guerreiro/github-readme-activity-graph"><img alt="j-guerreiro's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=j-guerreiro&bg_color=112a4b&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
 
 <br />
 <br />
